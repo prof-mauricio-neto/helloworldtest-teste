@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Hello World Java",
+      "setup": "Faça um programa que imprima o Hello World em Java.",
+      "run": "gradle test",
+      "input": "",
+      "output": "Hello World",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
